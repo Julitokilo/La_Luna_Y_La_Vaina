@@ -1,0 +1,6 @@
+De estas piezas es necesario imprimir 2 o más:
+
+- Pieza_vE_7 (2)
+- Pieza_vE_3 (2)
+- Pieza_vE_6 (4)
+- Pieza_vE_4 (2)
